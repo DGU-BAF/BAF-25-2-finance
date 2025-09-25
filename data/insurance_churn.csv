@@ -1,4 +1,4 @@
-# csv 용량이 커서 일부 행만 올렸습니다.
+# csv 용량이 커서 일부 행만 올렸습니다.!
   individual_id	address_id	curr_ann_amt	days_tenure	cust_orig_date	age_in_years	date_of_birth	latitude	longitude	city	state	county	income	has_children	length_of_residence	marital_status	home_market_value	home_owner	college_degree	good_credit	acct_suspd_date	Churn
 221300017872.0	521300005982.0	818.877997	1454.0	2018-12-09	44	1978-06-23	32.578829	-96.305006	Kaufman	TX	Kaufman	22500.0	1.0	15.0	Married	50000 - 74999	1.0	1.0	1.0		0
 221300134410.0	521300051115.0	974.199182	1795.0	2018-01-02	72	1950-05-30	32.732209	-97.000893	Grand Prairie	TX	Dallas	27500.0	0.0	2.0	Single	50000 - 74999	1.0	0.0	0.0		0
